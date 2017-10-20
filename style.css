@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  padding-left: 10px;
+}
+
+a {
+  /*outline: 1px solid red;*/
+  display: inline-block;
+  text-decoration: none;
+  width: 200px;
+  height: 30px;
+  color: #fff;
+  background-color: #f9a91a;
+  text-align: center;
+  margin: 5px;
+  line-height: 30px;
+}
+
+a:hover {
+  color: #948e91;
+}
